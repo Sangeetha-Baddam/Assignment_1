@@ -1,3 +1,5 @@
+#FIRST CODE 
+
 s1 = input("Enter the string :")
 s2 =list(s1.strip())
 print(type(s1))
@@ -26,12 +28,14 @@ print(f"Quotient: {quotient}")
 
 
 
+#SECOND CODE 
 
 temp = input("Enter the sentence :")
 temp = temp.replace('python', 'pythons')
 print("Updated string is : ")
 print(temp)
 
+#THIRD CODE 
 
 class_score = int(input("Enter your class score: "))
 if class_score >= 90:
