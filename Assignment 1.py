@@ -1,5 +1,5 @@
 #FIRST CODE 
-
+#orginal file link: https://colab.research.google.com/drive/13pqevne9BX-fTtcdthKvNDyH7RlWqHgM#scrollTo=VTM1YHQpQoDa
 s1 = input("Enter the string :")
 s2 =list(s1.strip())
 print(type(s1))
